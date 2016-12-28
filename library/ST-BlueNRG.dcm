@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BlueNRG-MSQTR
+D Bluetooth Low Energy Network Processor supporting Bluetooth 4.1 core specification
+K BTLE 
+F http://www.st.com/resource/en/datasheet/bluenrg-ms.pdf
+$ENDCMP
+#
+#End Doc Library
